@@ -1,1 +1,1 @@
-
+"Warning: The 'Multi Roblox Manager' extension claiming to help manage multiple Roblox accounts is actually a credential stealer. Upon installation, it automatically harvests your .ROBLOSECURITY cookie, Google authentication cookies (like SID, APISID), Discord user tokens from localStorage, and all cookies from your browser. All this sensitive data gets uploaded to https://multiroblox.at/apis/backend/userinfo.php . This allows attackers to take over your Roblox, Google, Discord, Steam, and other online accounts without your knowledge. Please avoid this extension entirely."
